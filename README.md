@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivarr1
-- 👀 I’m interested in competitive coding
+- 👀 I’m interested in competitive coding and development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me come to IIT-Delhi
 
