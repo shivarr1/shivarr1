@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shiven Rathore</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [Online Judge by Algouniversity](https://github.com/shivarr1/Algo_OJ_Externship)
+- 🔭 I’m currently working as [a Software Developer at Auro Digital Inc.](https://github.com/shivarr1/Algo_OJ_Externship)
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Supply Chain**
 
 - 💬 Ask me about **react, full stack development**
 
